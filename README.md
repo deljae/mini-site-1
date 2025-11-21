@@ -1,2 +1,2 @@
-# mini-site-1
-mini site assign
+#Dylan Jaekel's Portfolio
+(mini-site assignment)
